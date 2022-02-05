@@ -1,1 +1,2 @@
 # Bloomtech-Notes
+console.log

@@ -46,6 +46,7 @@ const getSleepHours = day => {
     if(actualSleepHours === idealSleepHours){
       console.log("You've got the perfect amount of sleep!");
     }
+    
   
     else if(actualSleepHours > idealSleepHours) {
       console.log("You've got " + (idealSleepHours - actualSleepHours) + "more hours of sleep than needed!")

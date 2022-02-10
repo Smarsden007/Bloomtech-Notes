@@ -70,6 +70,7 @@ class Media {
     544
   );
   console.log(historyOfEverything);
+  console.log(runTime)
   
   historyOfEverything.toggleCheckOutStatus();
   console.log(historyOfEverything.isCheckedOut);

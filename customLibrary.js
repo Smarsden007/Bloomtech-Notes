@@ -89,3 +89,8 @@ class Media {
   speed.addRating(5);
   
   console.log(speed.getAverageRating());
+
+  console.log(speed);
+
+
+  

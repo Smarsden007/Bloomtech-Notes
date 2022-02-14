@@ -16,13 +16,13 @@ const getRandEvent = () => {
   const getTrainingDays = event => {
   let days;
     if (event === 'Marathon') {
-      days = 50;
-    } else if (event === 'Triathlon') {
       days = 100;
+    } else if (event === 'Triathlon') {
+      days = 200;
     } else if (event === 'Pentathlon') {
-    days = 200;
+    days = 300;
     }
-  
+  //changed 1st from 50 to 100, second from 100 to 200 and third from 200 to 300
     return days;
   };
   
@@ -50,3 +50,7 @@ const getRandEvent = () => {
    
   logEvent(name2, event2);
   logTime(name2, days2);
+
+  Let RunningForever{
+    return 
+  }

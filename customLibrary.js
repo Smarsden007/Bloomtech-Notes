@@ -91,6 +91,6 @@ class Media {
   console.log(speed.getAverageRating());
 
   console.log(speed);
-
+Reviewing 
 
   

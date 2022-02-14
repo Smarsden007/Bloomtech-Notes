@@ -20,13 +20,14 @@ const getSleepHours = day => {
         return 7
         break;
       case 'sunday':
-        return 8
+        return 6
         break;
       default:
         return "Error!"
     }
   };
-  
+// reviewing cases
+//changed it from 8 to 6 on return line 23
   const getActualSleepHours = () => 
   getSleepHours('monday') + getSleepHours('tuesday') +getSleepHours('wednesday') +getSleepHours('thursday') +getSleepHours('friday') +getSleepHours('saturday') +getSleepHours('sunday');
   

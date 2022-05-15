@@ -1,2 +1,9 @@
 Back End Sprint 1 Notes
 
+npx git ignore = creates git ignore file
+npm init --y = installs json package
+npx eslint --y = installs eslint
+
+
+Get 
+Post

@@ -43,5 +43,3 @@ console.log("basically:", basicallyCount)
 betterWords.join(" ");
 
 
-/// THREE DAYS DOWN IN BLOOMTECH SCHOOL!!!!!!! WHOOOOOHOOOOO`
-/// reviewed code on all projects to help prepare for sprint challenge///
